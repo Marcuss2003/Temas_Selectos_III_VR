@@ -67,4 +67,8 @@ crashlytics-build.properties
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
 
 # --- TestRunner ---
+<<<<<<< HEAD
 InitTestScene*.unity*
+=======
+InitTestScene*.unity*
+>>>>>>> 294a09e (Entrega Practica 1)
